@@ -6,7 +6,7 @@
     <p>
     That is fairly simple.
     This mod's aims to help you calculate an estimate lowballing price in trades.
-    This will help your head from thing alot.
+    This will help your head from thinking alot.
     Also the mod will grant a feature to check how much an item on the auction house is cheaper from it's total value.
     </p>
     <br>
