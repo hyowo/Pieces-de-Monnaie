@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pdm",
+  "name": "Pièces de Monnaie",
+  "description": "The Bolt that Strikes from The Heavens, The Windfall that Erupts from Hell, The Genesis of All Creation, The Life Of Eternity, The Everlasting Rule, The One that Unites The Cosmos, The Hand that Gives, Heavenly Dawnbringer, Devil's Contractee, Pièces de Monnaie.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.mommy-milkers.com",
+  "updateUrl": "",
+  "authorList": ["Hyo#5026"],
+  "credits": "Hyo#5026 - Developer | ꧁ঔৣ☬✞DankCarrot✞☬ঔৣ꧂#4481 - Neat Description | FearedIce#9813 - Listed all reforge names",
+  "logoFile": "assets/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
