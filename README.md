@@ -1,4 +1,5 @@
 <body>
+    <a href="https://ko-fi.com/hyowo" target="__blank" align="center"><img src="ko-fi.gif" width="250" height="80"/></a>
     <h1 align="center">💸 Pieces de Monnaie 💸</h1>
     <br>
     <br>
