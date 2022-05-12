@@ -7,7 +7,7 @@
     <p>
     That is fairly simple.
     This mod's aims to help you calculate an estimate lowballing price in trades.
-    This will help your head from thing alot.
+    This will help your head from thinking alot.
     Also the mod will grant a feature to check how much an item on the auction house is cheaper from it's total value.
     </p>
     <br>
@@ -15,7 +15,7 @@
     <h3> Is this a rat? </h3>
     <p>
     I do not intend to rat/scam/trick any community to get me ahead in a video game.
-    If you really thing it's a rat, you can go through the code (incase you have the skills)
+    If you really think it's a rat, you can go through the code (incase you have the skills)
     or just don't download it. I'm not forcing this upon anyone.
     It's just a fun project im working on to learn more about java.
     </p>
